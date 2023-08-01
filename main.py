@@ -169,7 +169,7 @@ class MainScreen:
                     - Descrição: {descricao}
                     
                     Atenciosamente,
-                    Débora Guedes
+                    Julio Alves
                 """
                 
                 # Monta a mensagem do e-mail

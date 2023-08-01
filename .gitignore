@@ -1,0 +1,15 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+env/
+*.env
+
+# Dependências instaladas
+/.venv
+/lib/
+/lib64/
